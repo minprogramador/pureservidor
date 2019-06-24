@@ -1,0 +1,7 @@
+{
+	"name": "pureservidor",
+	"version": "0.0.1",
+	"description": "Poc ~ Servidor http em nodejs, sem pacotes externos, Rotas simples.",
+	"main": "index.js",
+	"private": true
+}
